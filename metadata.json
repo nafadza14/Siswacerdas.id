@@ -1,0 +1,9 @@
+{
+  "name": "id siswa cerdas platform",
+  "description": "A smart school management platform with AI integration, attendance tracking, and CBT.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
